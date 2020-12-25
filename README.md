@@ -11,7 +11,7 @@ Knowledge that I listed here are those that I am most confident in
 
 ### Front-end
 1. HTML
-2. CSS / SASS
+2. CSS / SCSS
 3. JavaScript / TypeScript
 4. ReactJS + Redux 
 
@@ -24,6 +24,7 @@ Knowledge that I listed here are those that I am most confident in
 2. Flask
 3. Angular 2
 4. PHP
+5. Webpack Configuration
 
 
 <!--
