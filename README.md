@@ -7,7 +7,7 @@ Aspiring Full-stack Web Developer
 > Ton Duc Thang University Email: 51800636@student.tdtu.edu.vn
 
 ## Knowledge in Web Development
-Knowledge that I listed here are those that I am most confident in
+Knowledge that I listed here are those that I am confident in
 
 ### Front-end
 1. HTML
@@ -16,7 +16,9 @@ Knowledge that I listed here are those that I am most confident in
 4. ReactJS + Redux 
 
 ### Back-end
-1. NodeJS / ExpressJS
+1. NodeJS
+2. ExpressJS
+3. SQL
 
 ### More
 > Those I have used but haven't delved in much
