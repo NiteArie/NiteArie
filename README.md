@@ -1,9 +1,9 @@
-# 👋 Nguyen Tien - NiteArie
+# Nguyễn Tiến ( aka NiteArie)
 
 Aspiring Full-stack Web Developer
 
 ## Contact
-> Personal Email: solitude.loner7@gmail.com \
+> Personal Email: tiennguyenthanh29@gmail.com \
 > Ton Duc Thang University Email: 51800636@student.tdtu.edu.vn
 
 ## Knowledge in Web Development
