@@ -7,27 +7,15 @@ Aspiring Full-stack Web Developer
 > Ton Duc Thang University Email: 51800636@student.tdtu.edu.vn
 
 ## Knowledge in Web Development
-Knowledge that I listed here are those that I am confident in
 
 ### Front-end
-1. HTML
-2. CSS / SCSS
-3. JavaScript / TypeScript
-4. ReactJS + Redux 
+HTML, CSS, JavaScript
 
 ### Back-end
-1. NodeJS
-2. ExpressJS
-3. SQL
+NodeJS, ExpressJS, Restful API
 
 ### More
-> Those I have used but haven't delved in much
-1. Django
-2. Flask
-3. Angular 2
-4. PHP
-5. Webpack Configuration
-
+Django, Flask, Angular 2, PHP, Webpack Configuration
 
 <!--
 **NiteArie/NiteArie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
