@@ -6,9 +6,9 @@ Aspiring Full-stack Web Developer
 > Personal Email: tiennguyenthanh29@gmail.com \
 > Ton Duc Thang University Email: 51800636@student.tdtu.edu.vn
 
-## Github Stats
-
 [![NiteArie's GitHub stats](https://github-readme-stats.vercel.app/api?username=nitearie&count_private=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nitearie&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **NiteArie/NiteArie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
