@@ -1,8 +1,8 @@
 
-
+![Banner](./images/banner.png)
 
 <p align="center">
-  Currently, I'm a senior studying at Ton Duc Thang University, pursuing a Bachelor degree in Computer Science. I am passionate in learning.
+  Currently, I'm a senior studying at Ton Duc Thang University, pursuing a Bachelor degree in Computer Science. I am passionate in learning. Aspired to contribute.
 </p>  
 
 <h2 align="center">Technology Stack</h2>
