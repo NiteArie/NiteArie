@@ -29,15 +29,15 @@
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=nitearie&count_private=true&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical">
 </p>
 
-<p align = "center">
+<!-- <p align = "center">
  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=nitearie&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
-</p> 
+</p>  -->
 
-<p align = "center">
+<!-- <p align = "center">
  <img src="https://activity-graph.herokuapp.com/graph?username=nitearie&theme=redical">
 </p> 
-
-<h2 align="center">Reach me on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
+ -->
+<h2 align="center">Contact</h2>
 
 <p align="center">
   
